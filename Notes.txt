@@ -1,0 +1,5 @@
+Used this:
+
+- A HashSet, similar to a Dictionary, is a hash-based collection, so look ups are very fast with O(1). 
+  But unlike a dictionary, it doesn't store key/value pairs; it only stores values.So, every objects should be 
+  unique and this is determined by the value returned from the GetHashCode method.
